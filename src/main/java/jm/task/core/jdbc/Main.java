@@ -26,5 +26,7 @@ public class Main {
 
         userService.dropUsersTable();
 
+
+
     }
 }
